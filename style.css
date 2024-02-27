@@ -1,0 +1,11 @@
+body
+{
+    height: 1500px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background-repeat: no-repeat;
+}
+button
+{
+    background-color: rgb(44, 221, 50);
+    font-size: 15px;
+}

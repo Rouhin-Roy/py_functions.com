@@ -1,0 +1,8 @@
+div
+{
+    background: linear-gradient(hsl(108, 82%, 50%),yellow);
+    background-repeat: no-repeat;
+    width: 290px;
+    border: 5px;
+    border-color: blue;
+}
